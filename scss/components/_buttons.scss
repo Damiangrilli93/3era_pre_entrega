@@ -1,0 +1,21 @@
+/*botones de reservas, menu y eventos*/
+.button{
+    justify-content: center;
+    display: flex;
+    align-content: center;
+    gap: 10px;
+    padding-bottom: 50px;
+    transition: all 1.5s;
+}
+
+.button-1:hover{
+    transform: scale(1.5);
+}
+
+.button-2:hover{
+    transform: scale(1.5);
+}
+
+.button-3:hover{
+    transform: scale(1.5);
+}

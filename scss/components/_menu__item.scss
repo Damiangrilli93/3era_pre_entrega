@@ -1,0 +1,11 @@
+
+/*menu principal*/
+.menu__item{
+    display: flex;
+    list-style: none;
+    align-items: center;
+    color: #9e6730;
+    gap: 180px;
+    grid-template-rows: max-content; 
+    
+}
